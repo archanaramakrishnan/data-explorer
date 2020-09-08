@@ -3,7 +3,7 @@ data-explorer
 
 Introduction to Data Science, Project 1: Jimmy Wrangler, Data Explorer, which loads data sets into panda data frames, transforms the data sets into a single one
 
-Navigate to **notebooks > JimmyWrangler.ipynb to view the Jupyter Notebook**
+Navigate to **notebooks > JimmyWrangler.ipynb** to view the Jupyter Notebook
 
 Project Organization
 ------------
